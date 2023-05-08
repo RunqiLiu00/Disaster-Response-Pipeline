@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 
 ### Introduction
-Developed disaster response system using NLP and ML techniques to categorize messages and distribute them to relevant organizations for specialized aid. Analyzed pre-labeled disaster data and built a pipeline that returns classification results for new messages. Created Flask app for interactive message classification and disaster data visualization.Further details can be found in [this article](https://medium.com/@runqi/i-built-a-disaster-response-pipeline-and-how-did-i-build-it-7b77e6b91076) on medium.
+Developed disaster response system using NLP and ML techniques to categorize messages and distribute them to relevant organizations for specialized aid. Analyzed pre-labeled disaster data and built a pipeline that returns classification results for new messages. Created Flask app for interactive message classification and disaster data visualization. Further details can be found in [this article](https://medium.com/@runqi/i-built-a-disaster-response-pipeline-and-how-did-i-build-it-7b77e6b91076) on medium.
 
 ### File Description
 notebooks\
@@ -42,5 +42,5 @@ https://user-images.githubusercontent.com/58591088/236385520-f0b8d7f8-2fb6-4ad8-
 
 ### Acknowledgements
 Udacity for designing the project  
-Figure Eight for provding datasets
+Figure Eight for providing datasets
 
