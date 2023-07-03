@@ -1,3 +1,4 @@
+gunicorn==19.8.1
 blinker==1.6.2
 certifi==2023.5.7
 charset-normalizer==3.1.0
